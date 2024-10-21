@@ -40,7 +40,6 @@ Real-Time Notifications: Integrate real-time assignment submission notifications
 API Integration: Add REST API endpoints using Django REST Framework for better scalability and third-party integration.
 Deployment: Plan to deploy the system on cloud platforms like Heroku or AWS etc.
 
-
 **How to Run the Project:**
 
 **1.Clone the repository:**
