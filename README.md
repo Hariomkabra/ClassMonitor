@@ -43,7 +43,7 @@ Deployment: Plan to deploy the system on cloud platforms like Heroku or AWS etc.
 **How to Run the Project:**
 
 **1.Clone the repository:**
-git clone https://github.com/yourusername/classmonitor.git
+git clone https://https://github.com/Hariomkabra/classmonitor.git
 
 **2.Install dependencies:**
 pip install -r requirements.txt
