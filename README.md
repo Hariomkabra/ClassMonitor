@@ -12,7 +12,7 @@ Efficient URL Mapping and Error Handling: Used Django's urls.py and reverse() fo
 
 **Technologies Used:**
 **Backend:**
-Django Framework: For rapid backend development and ORM integration.
+Django Framework: This is for rapid backend development and ORM integration.
 Django URL Mapping: Utilized Django’s reverse() and NoReverseMatch exception handling for seamless navigation and error prevention.
 
 **Frontend:**
@@ -42,20 +42,20 @@ Deployment: Plan to deploy the system on cloud platforms like Heroku or AWS etc.
 
 **How to Run the Project:**
 
-**1.Clone the repository:**
-git clone https://https://github.com/Hariomkabra/classmonitor.git
+**1. Clone the repository:**
+git clone https://github.com/Hariomkabra/ClassMonitor.git
 
-**2.Install dependencies:**
+**2. Install dependencies:**
 pip install -r requirements.txt
 
 **3.Run migrations:**
 python manage.py makemigrations
 python manage.py migrate
 
-**4.Create a superuser (admin):**
+**4. Create a superuser (admin):**
 python manage.py createsuperuser
 
-**5.Run the server:**
+**5. Run the server:**
 python manage.py runserver
 
 **6.Access the app at** http://127.0.0.1:8000/
